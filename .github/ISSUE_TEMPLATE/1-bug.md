@@ -5,7 +5,7 @@ title: 'Bug: <brief title of your issue>'
 labels:
   - bug
   - needs triage
-assignees: ''
+assignees: []
 ---
 
 ## Describe the overall issue and situation
